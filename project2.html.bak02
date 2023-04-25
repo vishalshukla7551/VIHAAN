@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<style type="text/css">
+a:hover{
+	background:  ThreeDFace url('13.gif')  repeat fixed  right bottom; 
+display: inline;
+}
+
+.auto-style1 {
+	background-position: center top;
+background-image: url('banner.jpg');
+}
+.auto-style5 {
+	border: 1px solid #669999;
+	margin-left: 0px;
+	border-collapse: collapse;
+}
+.auto-style15 {
+	text-align: center;
+	margin-top: 175px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+	font-size: x-large;
+	background-image: url('529473_327953434018158_1223119588_n000.jpg');
+}
+.auto-style14 {
+	font-weight: normal;
+}
+.auto-style16 {
+	color: #FFFFFF;
+}
+.auto-style31 {
+	background-image: url('Presentation1.jpg');
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+.auto-style32 {
+	background-image: url('Presentation1.jpg');
+	background-attachment: fixed;
+}
+.auto-style27 {
+	text-align: center;
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+.auto-style30 {
+	text-align: center;
+	font-size: large;
+}
+.auto-style29 {
+	margin-left: 0px;
+	color: #FFFFFF;
+}
+</style>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+
+<body style="background-image: url('wxp%20(8).jpg'); left: -10px; top: -15px;">
+
+
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<div id="layer1" class="auto-style1" style="position: absolute; width: 931px; height: 757px; z-index: 1; left: 204px; top: -40px">
+	
+	style=&quot;position: 
+	absolute;<div id="layer2" style="position: absolute; width: 924px; height: 35px; z-index: 1; left: 4px; top: 199px">
+					<table class="auto-style5" style="height: 1px;">
+						<tr><td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project%20cop.html" class="a:hover">
+							<span class="auto-style16" >Home</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14"><a href="project.html" class="a:hover">
+							<span class="auto-style16">Reservation</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project1.html" class="a:hover"><span class="auto-style16">Services</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project2.html" class="a:hover"><span class="auto-style16">Gallery</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+
+							<a href="project3.html" class="a:hover"><span class="auto-style16">Contact us</span></a></strong></td>
+						</tr>
+					</table>
+				</div>
+
+	<div id="layer8" class="auto-style31" style="position: absolute; width: 13px; height: 21px; z-index: 1; left: 200px; top: -177px">
+	</div>
+							<strong class="auto-style14"><a href="project.html">
+							<div id="layer9" class="auto-style32" style="position: absolute; width: 12px; height: 22px; z-index: 1; left: 208px; top: 66px; bottom: 669px">
+	</div>
+	</a>
+	<div id="layer5" class="auto-style27" style="position: absolute; width: 100px; height: 62px; z-index: 5; left: 142px; top: 87px">
+		TAJ</div>
+	</strong>
+	<div id="layer4" class="auto-style30" style="position: absolute; width: 185px; height: 61px; z-index: 4; left: 100px; top: 111px">
+		<br />
+		<span class="auto-style29">Hotels Resorts </span>
+		<br class="auto-style29" />
+		<span class="auto-style29">And Palaces</span></div>
+							<strong class="auto-style14">
+							<div id="layer10" class="auto-style32" style="position: absolute; width: 12px; height: 22px; z-index: 1; left: 208px; top: 66px; bottom: 669px">
+	</div>
+	</strong>
+
+	</div>
+	
+</body>
+
+</html>

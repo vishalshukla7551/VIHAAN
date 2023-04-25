@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<style type="text/css">
+a:hover{
+	background:  ThreeDFace url('13.gif')  repeat fixed  right bottom; 
+display: inline;
+}
+
+.auto-style1 {
+	background-position: center top;
+background-image: url('banner.jpg');
+}
+.auto-style5 {
+	border: 1px solid #669999;
+	margin-left: 0px;
+	border-collapse: collapse;
+}
+.auto-style15 {
+	text-align: center;
+	margin-top: 175px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+	font-size: x-large;
+	background-image: url('529473_327953434018158_1223119588_n000.jpg');
+}
+.auto-style14 {
+	font-weight: normal;
+}
+.auto-style16 {
+	color: #FFFFFF;
+}
+.auto-style31 {
+	background-image: url('Presentation1.jpg');
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+.auto-style32 {
+	background-image: url('Presentation1.jpg');
+	background-attachment: fixed;
+}
+.auto-style27 {
+	text-align: center;
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+.auto-style30 {
+	text-align: center;
+	font-size: large;
+}
+.auto-style29 {
+	margin-left: 0px;
+	color: #FFFFFF;
+}
+</style>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+
+<body style="background-image: url('wxp%20(8).jpg'); left: -10px; top: -15px;">
+
+
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images">
+<a href="#"><img src="data1/images/beachhotelwidewallpaper337527.jpg" alt="beach-hotel-wide-wallpaper-337527" title="beach-hotel-wide-wallpaper-337527" id="wows0"/></a>
+<a href="#"><img src="data1/images/1597049.jpg" alt="1597049" title="1597049" id="wows1"/></a>
+<a href="#"><img src="data1/images/4959hotelbellagio1366x768worldwallpaper_1.jpg" alt="4959-hotel-bellagio-1366x768-world-wallpaper (1)" title="4959-hotel-bellagio-1366x768-world-wallpaper (1)" id="wows2"/></a>
+<a href="#"><img src="data1/images/1645948.jpg" alt="1645948" title="1645948" id="wows3"/></a>
+<a href="#"><img src="data1/images/1484762.jpg" alt="1484762" title="1484762" id="wows4"/></a>
+<a href="#"><img src="data1/images/1692130.jpg" alt="1692130" title="1692130" id="wows5"/></a>
+<a href="#"><img src="data1/images/luxuryroom1.jpg" alt="Luxury-Room1" title="Luxury-Room1" id="wows6"/></a>
+<a href="#"><img src="data1/images/operaballroom.jpg" alt="Opera-Ballroom" title="Opera-Ballroom" id="wows7"/></a>
+<a href="#"><img src="data1/images/luxuryroom2.jpg" alt="Luxury-Room2" title="Luxury-Room2" id="wows8"/></a>
+<a href="#"><img src="data1/images/tajclubkingroom1.jpg" alt="Taj-Club-King-Room1" title="Taj-Club-King-Room1" id="wows9"/></a>
+<a href="#"><img src="data1/images/tajclubkingroom2.jpg" alt="Taj-Club-King-Room2" title="Taj-Club-King-Room2" id="wows10"/></a>
+<a href="#"><img src="data1/images/tajclubkingroom3.jpg" alt="Taj-Club-King-Room3" title="Taj-Club-King-Room3" id="wows11"/></a>
+<a href="#"><img src="data1/images/tajclubkingroom4.jpg" alt="Taj-Club-King-Room4" title="Taj-Club-King-Room4" id="wows12"/></a>
+<a href="#"><img src="data1/images/tajclubkingroom5.jpg" alt="Taj-Club-King-Room5" title="Taj-Club-King-Room5" id="wows13"/></a>
+<a href="#"><img src="data1/images/luxuryfamilytwinroom1.jpg" alt="Luxury-Family-Twin-Room1" title="Luxury-Family-Twin-Room1" id="wows14"/></a>
+<a href="#"><img src="data1/images/luxuryfamilytwinroom2.jpg" alt="Luxury-Family-Twin-Room2" title="Luxury-Family-Twin-Room2" id="wows15"/></a>
+<a href="#"><img src="data1/images/luxuryfamilytwinroom3.jpg" alt="Luxury-Family-Twin-Room3" title="Luxury-Family-Twin-Room3" id="wows16"/></a>
+<a href="#"><img src="data1/images/luxuryfamilytwinroom4.jpg" alt="Luxury-Family-Twin-Room4" title="Luxury-Family-Twin-Room4" id="wows17"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite1.jpg" alt="Luxury-Junior-Suite1" title="Luxury-Junior-Suite1" id="wows18"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite2.jpg" alt="Luxury-Junior-Suite2" title="Luxury-Junior-Suite2" id="wows19"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite4.jpg" alt="Luxury-Junior-Suite4" title="Luxury-Junior-Suite4" id="wows20"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite5.jpg" alt="Luxury-Junior-Suite5" title="Luxury-Junior-Suite5" id="wows21"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite6.jpg" alt="Luxury-Junior-Suite6" title="Luxury-Junior-Suite6" id="wows22"/></a>
+<a href="#"><img src="data1/images/luxuryjuniorsuite7.jpg" alt="Luxury-Junior-Suite7" title="Luxury-Junior-Suite7" id="wows23"/></a>
+<a href="#"><img src="data1/images/luxuryburjviewsuite1.jpg" alt="Luxury-Burj-View-Suite1" title="Luxury-Burj-View-Suite1" id="wows24"/></a>
+<a href="#"><img src="data1/images/luxuryburjviewsuite2.jpg" alt="Luxury-Burj-View-Suite2" title="Luxury-Burj-View-Suite2" id="wows25"/></a>
+<a href="#"><img src="data1/images/luxuryburjviewsuite3.jpg" alt="Luxury-Burj-View-Suite3" title="Luxury-Burj-View-Suite3" id="wows26"/></a>
+<a href="#"><img src="data1/images/luxuryburjviewsuite4.jpg" alt="Luxury-Burj-View-Suite4" title="Luxury-Burj-View-Suite4" id="wows27"/></a>
+<a href="#"><img src="data1/images/presidentialsuite1.jpg" alt="Presidential-Suite1" title="Presidential-Suite1" id="wows28"/></a>
+<a href="#"><img src="data1/images/presidentialsuite2.jpg" alt="Presidential-Suite2" title="Presidential-Suite2" id="wows29"/></a>
+<a href="#"><img src="data1/images/presidentialsuite3.jpg" alt="Presidential-Suite3" title="Presidential-Suite3" id="wows30"/></a>
+<a href="#"><img src="data1/images/presidentialsuite4.jpg" alt="Presidential-Suite4" title="Presidential-Suite4" id="wows31"/></a>
+<a href="#"><img src="data1/images/bombaybrasserie.jpg" alt="Bombay-Brasserie" title="Bombay-Brasserie" id="wows32"/></a>
+<a href="#"><img src="data1/images/tesoro.jpg" alt="Tesoro" title="Tesoro" id="wows33"/></a>
+<a href="#"><img src="data1/images/byzantiumlounge.jpg" alt="Byzantium-Lounge" title="Byzantium-Lounge" id="wows34"/></a>
+<a href="#"><img src="data1/images/theeloquentelephant.jpg" alt="The-Eloquent-Elephant" title="The-Eloquent-Elephant" id="wows35"/></a>
+<a href="#"><img src="data1/images/lobby.jpg" alt="Lobby" title="Lobby" id="wows36"/></a>
+<a href="#"><img src="data1/images/operaballroom_1.jpg" alt="Opera-Ballroom (1)" title="Opera-Ballroom (1)" id="wows37"/></a>
+</div>
+<div class="ws_bullets"><div>
+<a href="#wows0" title="beach-hotel-wide-wallpaper-337527"><img src="data1/tooltips/beachhotelwidewallpaper337527.jpg" alt="beach-hotel-wide-wallpaper-337527"/>1</a>
+<a href="#wows1" title="1597049"><img src="data1/tooltips/1597049.jpg" alt="1597049"/>2</a>
+<a href="#wows2" title="4959-hotel-bellagio-1366x768-world-wallpaper (1)"><img src="data1/tooltips/4959hotelbellagio1366x768worldwallpaper_1.jpg" alt="4959-hotel-bellagio-1366x768-world-wallpaper (1)"/>3</a>
+<a href="#wows3" title="1645948"><img src="data1/tooltips/1645948.jpg" alt="1645948"/>4</a>
+<a href="#wows4" title="1484762"><img src="data1/tooltips/1484762.jpg" alt="1484762"/>5</a>
+<a href="#wows5" title="1692130"><img src="data1/tooltips/1692130.jpg" alt="1692130"/>6</a>
+<a href="#wows6" title="Luxury-Room1"><img src="data1/tooltips/luxuryroom1.jpg" alt="Luxury-Room1"/>7</a>
+<a href="#wows7" title="Opera-Ballroom"><img src="data1/tooltips/operaballroom.jpg" alt="Opera-Ballroom"/>8</a>
+<a href="#wows8" title="Luxury-Room2"><img src="data1/tooltips/luxuryroom2.jpg" alt="Luxury-Room2"/>9</a>
+<a href="#wows9" title="Taj-Club-King-Room1"><img src="data1/tooltips/tajclubkingroom1.jpg" alt="Taj-Club-King-Room1"/>10</a>
+<a href="#wows10" title="Taj-Club-King-Room2"><img src="data1/tooltips/tajclubkingroom2.jpg" alt="Taj-Club-King-Room2"/>11</a>
+<a href="#wows11" title="Taj-Club-King-Room3"><img src="data1/tooltips/tajclubkingroom3.jpg" alt="Taj-Club-King-Room3"/>12</a>
+<a href="#wows12" title="Taj-Club-King-Room4"><img src="data1/tooltips/tajclubkingroom4.jpg" alt="Taj-Club-King-Room4"/>13</a>
+<a href="#wows13" title="Taj-Club-King-Room5"><img src="data1/tooltips/tajclubkingroom5.jpg" alt="Taj-Club-King-Room5"/>14</a>
+<a href="#wows14" title="Luxury-Family-Twin-Room1"><img src="data1/tooltips/luxuryfamilytwinroom1.jpg" alt="Luxury-Family-Twin-Room1"/>15</a>
+<a href="#wows15" title="Luxury-Family-Twin-Room2"><img src="data1/tooltips/luxuryfamilytwinroom2.jpg" alt="Luxury-Family-Twin-Room2"/>16</a>
+<a href="#wows16" title="Luxury-Family-Twin-Room3"><img src="data1/tooltips/luxuryfamilytwinroom3.jpg" alt="Luxury-Family-Twin-Room3"/>17</a>
+<a href="#wows17" title="Luxury-Family-Twin-Room4"><img src="data1/tooltips/luxuryfamilytwinroom4.jpg" alt="Luxury-Family-Twin-Room4"/>18</a>
+<a href="#wows18" title="Luxury-Junior-Suite1"><img src="data1/tooltips/luxuryjuniorsuite1.jpg" alt="Luxury-Junior-Suite1"/>19</a>
+<a href="#wows19" title="Luxury-Junior-Suite2"><img src="data1/tooltips/luxuryjuniorsuite2.jpg" alt="Luxury-Junior-Suite2"/>20</a>
+<a href="#wows20" title="Luxury-Junior-Suite4"><img src="data1/tooltips/luxuryjuniorsuite4.jpg" alt="Luxury-Junior-Suite4"/>21</a>
+<a href="#wows21" title="Luxury-Junior-Suite5"><img src="data1/tooltips/luxuryjuniorsuite5.jpg" alt="Luxury-Junior-Suite5"/>22</a>
+<a href="#wows22" title="Luxury-Junior-Suite6"><img src="data1/tooltips/luxuryjuniorsuite6.jpg" alt="Luxury-Junior-Suite6"/>23</a>
+<a href="#wows23" title="Luxury-Junior-Suite7"><img src="data1/tooltips/luxuryjuniorsuite7.jpg" alt="Luxury-Junior-Suite7"/>24</a>
+<a href="#wows24" title="Luxury-Burj-View-Suite1"><img src="data1/tooltips/luxuryburjviewsuite1.jpg" alt="Luxury-Burj-View-Suite1"/>25</a>
+<a href="#wows25" title="Luxury-Burj-View-Suite2"><img src="data1/tooltips/luxuryburjviewsuite2.jpg" alt="Luxury-Burj-View-Suite2"/>26</a>
+<a href="#wows26" title="Luxury-Burj-View-Suite3"><img src="data1/tooltips/luxuryburjviewsuite3.jpg" alt="Luxury-Burj-View-Suite3"/>27</a>
+<a href="#wows27" title="Luxury-Burj-View-Suite4"><img src="data1/tooltips/luxuryburjviewsuite4.jpg" alt="Luxury-Burj-View-Suite4"/>28</a>
+<a href="#wows28" title="Presidential-Suite1"><img src="data1/tooltips/presidentialsuite1.jpg" alt="Presidential-Suite1"/>29</a>
+<a href="#wows29" title="Presidential-Suite2"><img src="data1/tooltips/presidentialsuite2.jpg" alt="Presidential-Suite2"/>30</a>
+<a href="#wows30" title="Presidential-Suite3"><img src="data1/tooltips/presidentialsuite3.jpg" alt="Presidential-Suite3"/>31</a>
+<a href="#wows31" title="Presidential-Suite4"><img src="data1/tooltips/presidentialsuite4.jpg" alt="Presidential-Suite4"/>32</a>
+<a href="#wows32" title="Bombay-Brasserie"><img src="data1/tooltips/bombaybrasserie.jpg" alt="Bombay-Brasserie"/>33</a>
+<a href="#wows33" title="Tesoro"><img src="data1/tooltips/tesoro.jpg" alt="Tesoro"/>34</a>
+<a href="#wows34" title="Byzantium-Lounge"><img src="data1/tooltips/byzantiumlounge.jpg" alt="Byzantium-Lounge"/>35</a>
+<a href="#wows35" title="The-Eloquent-Elephant"><img src="data1/tooltips/theeloquentelephant.jpg" alt="The-Eloquent-Elephant"/>36</a>
+<a href="#wows36" title="Lobby"><img src="data1/tooltips/lobby.jpg" alt="Lobby"/>37</a>
+<a href="#wows37" title="Opera-Ballroom (1)"><img src="data1/tooltips/operaballroom_1.jpg" alt="Opera-Ballroom (1)"/>38</a>
+</div></div>
+<a style="display:none" href="http://wowslider.com">jQuery Carousel Video by WOWSlider.com v1.7</a>
+	<div id="wowslider-frame"></div>
+	<div id="wowslider-shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<div id="layer1" class="auto-style1" style="position: absolute; width: 931px; height: 757px; z-index: 1; left: 204px; top: -40px">
+	
+	style=&quot;position: 
+	absolute;<div id="layer2" style="position: absolute; width: 924px; height: 35px; z-index: 1; left: 4px; top: 199px">
+					<table class="auto-style5" style="height: 1px;">
+						<tr><td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project%20cop.html" class="a:hover">
+							<span class="auto-style16" >Home</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14"><a href="project.html" class="a:hover">
+							<span class="auto-style16">Reservation</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project1.html" class="a:hover"><span class="auto-style16">Services</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+							<a href="project2.html" class="a:hover"><span class="auto-style16">Gallery</span></a></strong></td>
+							<td class="auto-style15" style="width: 190px">
+							<strong class="auto-style14">
+
+							<a href="project3.html" class="a:hover"><span class="auto-style16">Contact us</span></a></strong></td>
+						</tr>
+					</table>
+				</div>
+
+	<div id="layer8" class="auto-style31" style="position: absolute; width: 13px; height: 21px; z-index: 1; left: 200px; top: -177px">
+	</div>
+							<strong class="auto-style14"><a href="project.html">
+							<div id="layer9" class="auto-style32" style="position: absolute; width: 12px; height: 22px; z-index: 1; left: 208px; top: 66px; bottom: 669px">
+	</div>
+	</a>
+	<div id="layer5" class="auto-style27" style="position: absolute; width: 100px; height: 62px; z-index: 5; left: 142px; top: 87px">
+		TAJ</div>
+	</strong>
+	<div id="layer4" class="auto-style30" style="position: absolute; width: 185px; height: 61px; z-index: 4; left: 100px; top: 111px">
+		<br />
+		<span class="auto-style29">Hotels Resorts </span>
+		<br class="auto-style29" />
+		<span class="auto-style29">And Palaces</span></div>
+							<strong class="auto-style14">
+							<div id="layer10" class="auto-style32" style="position: absolute; width: 12px; height: 22px; z-index: 1; left: 208px; top: 66px; bottom: 669px">
+	</div>
+	</strong>
+
+	</div>
+	
+</body>
+
+</html>

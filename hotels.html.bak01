@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<style type="text/css">
+.auto-style1 {
+	background-image: url('theme1.jpg');
+	text-align: right;
+}
+.auto-style4 {
+	text-align: center;
+	background-image: url('wxp%20(6).jpg');
+}
+.auto-style5 {
+	margin-left: 0px;
+}
+.auto-style6 {
+	text-align: left;
+	background-image: url('taj-hotels-LP-banner.jpg');
+}
+.auto-style7 {
+	text-align: center;
+}
+.auto-style9 {
+	background-image: url('banner.jpg');
+}
+.auto-style10 {
+	padding-left: 4px;
+}
+</style>
+</head>
+
+<body style="background-image: url('yooo.jpg')">
+
+<div id="layer1" class="auto-style1" style="position: absolute; width: 460px; height: 187px; z-index: 1; float: right; left: 901px; top: 1px">
+	<div id="layer2" style="position: absolute; width: 1622px; height: 189px; z-index: 1; left: -765px; top: 4px">
+		<div id="layer3" style="position: absolute; width: 1058px; height: 24px; z-index: 1; left: 296px; top: 192px">
+			<div id="layer6" class="auto-style9" style="position: absolute; width: 725px; height: 125px; z-index: 1; visibility: visible; float: left; left: 404px; right: -71px; top: -129px">
+				<div id="layer7" class="auto-style10" style="width: 100px; height: 100px; z-index: 1; left: 725px; float: right">
+				</div>
+			</div>
+			<div>
+				<table class="auto-style5" style="width: 100%" align="center">
+					<tr>
+						<td class="auto-style4" style="width: 100px; height: 23px;">Home</td>
+						<td class="auto-style4" style="width: 107px; height: 23px;">Reservation</td>
+						<td class="auto-style4" style="width: 115px; height: 23px;">Services</td>
+						<td class="auto-style4" style="width: 118px; height: 23px;">Gallery</td>
+						<td class="auto-style4" style="width: 99px; height: 23px;">Contact us</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div id="layer4" class="auto-style6" style="position: absolute; width: 437px; height: 279px; z-index: 2; left: -139px; top: 194px">
+		</div>
+			</div>
+	
+</div>
+<form method="post">
+	<div class="auto-style7" style="azimuth:right">
+		
+</form>
+<p>
+&nbsp;<p class="auto-style7">
+<form method="post" target="_self">
+	<input name="Login" type="button" value="Login" /><input name="Register" type="button" value="Register" /></form>
+</p>
+	
+<p class="auto-style7">&nbsp;</p>
+	
+<div id="layer8" style="position: absolute; width: 949px; height: 385px; z-index: 2; left: 438px; top: 227px">
+	<object id="media3" class="auto-style5" style="width: 1048px; height: 373px" type="video/x-ms-wmv">
+		<param name="filename" value="Presentation2.wmv" />
+		<param name="uiMode" value="none" />
+		<param name="playCount" value="5" />
+	</object>
+</div>
+	
+</body>
+
+</html>
